@@ -1,0 +1,8 @@
+# Example email list - replace with your actual emails
+example1@gmail.com
+example2@gmail.com
+example3@gmail.com
+
+# Add one email per line
+# The bot will use the password from PasswordsForAll.txt for all accounts
+</parameter>
